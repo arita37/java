@@ -1,7 +1,7 @@
 # java
 Various utilities
 
-Code source of this page has moved to Private directory for profesionnal reasons.
+Code source of this page has moved to another Git Private directory for profesionnal reasons.
 Code include those projects:
 
 Use Java JVM inside Python in a transparent way (and this is NOT Jython).
