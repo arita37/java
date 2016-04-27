@@ -1,4 +1,4 @@
-# java
+# java - Python and Scala and C++, used together
 Various utilities
 
 Code source of this page has moved to another Git Private directory for profesionnal reasons.
