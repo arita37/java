@@ -1,26 +1,49 @@
-# java - Python and Scala and C++, used together
-Various utilities
+#  Python and Scala/Java and C++, used together
 
-Code source of this page has moved to another Git Private directory for profesionnal reasons.
-As high level coding involves a lot of work and high quality research work is demanding,
-it's difficult to release all the code.
+This page has re-created to show some my works (blog-style).
 
-Code include those projects:
+Most (all) the code source  has moved to another Git Private directory for profesionnal reasons.
+As high level coding involves a lot of work and high quality research work is quite demanding,
+it's difficult to release all the code .
 
-Use Java JVM inside Python in a transparent way (and this is NOT Jython....)
+You can't imagine that Google releases all his search engine code....
 
-Auto documentation generator for Pyhton.
+If you have interest in one of the project below and some code sources,
+you can just send me a message  to noelkev0 gmail   , explaining your motivation.
 
-Deep Learning on Japanese.
-
-Very Fast Machine Learning Tools using GPU
-
-Feature generation using XGBoost
+I am usually very open, I will probably reply to you and give access to the code.
 
 
-If you send an email to noelkev    aaaat  gmail  
+These are the projects I have worked or working one:
 
-I will be able to send you some code.
+1. Using Java JVM inside Python in an transparent way: (this is not Jython)
+  Example: Apacha Lucene, Tika, Common, many utilities to compile Java and use Maven
+
+2. Auto documentation for Python: You have imported a new package  with import packagename
+   There is no Doc !!!! ---> This module generates by parsing the python code, 
+     the list of all functions, classes, methods (like Java Doc or Doxygen) in a text file.
+   This is very useful if you have a new scientific package with no clue of the API
+
+3. Feature Engineering with XGBoost in Scikit Learn and Graphlab
+
+4.  Deep Learning tools for input pre-processing (NLP, text and images)
+
+5.  Deep Learning model for Japanese language processing with Grammar models
+    (Japanese is particularly difficult, little research is available using Deep Neural network)
+
+6. Portfolio analysis using Precision Matrix  and Machine Learning Clustering.
+
+7. Derivatives analytics in Python for Monte Carlo Simulation
+
+8. Random generator using GPU (Cuda) Sobol and Mersenne Twister
+
+10. Very fast machine learning using GPU (Scala based).
+
+11. Apache Spark tools which can be used from GUI
+
+
+
+
 
 
 
