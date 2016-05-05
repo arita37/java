@@ -7,6 +7,10 @@ As high level coding involves a lot of work and high quality research work is qu
 it's difficult to release all the code .
 
 You can't imagine that Google releases all his search engine code....
+But they sometimes release some utilities code to make a standard used by many people.
+
+
+
 
 If you have interest in one of the project below and some code sources,
 you can just send me a message  to noelkev0 gmail   , explaining your motivation.
