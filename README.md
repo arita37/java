@@ -1,14 +1,13 @@
 #  Python and Scala/Java and C++ for Machine Learning / Information extraction
 
-This page has re-created to show some my works.
+This page has been re-created to show some my works.
 
 Most (all) the code source  has moved to another Git Private directory for profesionnal reasons.
-As high level coding involves a lot of work and high quality research work is quite demanding,
+As high quality coding involves a lot of work and high quality research work is quite demanding,
 it's difficult to release all the code.
 
-You can't imagine that Google or Windows release all their search engine code....
-But they sometimes release some utilities code to make a standard and used by many people.
-
+You can't imagine that Google or Microsoft releasing all their search engine code....
+But they sometimes release some utilities code to make a standard and be used by many people.
 
 
 
